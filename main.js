@@ -5,3 +5,5 @@ Bleacon.startScanning();
 Bleacon.on('discover', function(bleacon) {
    console.dir(bleacon);
 });
+
+//testaaaaa
