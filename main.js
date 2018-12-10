@@ -6,4 +6,4 @@ Bleacon.on('discover', function(bleacon) {
    console.dir(bleacon);
 });
 
-//testaaaaa
+//test_ok
